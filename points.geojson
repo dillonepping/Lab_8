@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FID": 0.000000, "latitude": 41.980500, "longitude": -87.716200, "time": 1, "id": "route1", "name": "NEIU" }, "geometry": { "type": "Point", "coordinates": [ -87.716184854507446, 41.98045323510474 ] } },
+{ "type": "Feature", "properties": { "FID": 1.000000, "latitude": 41.975700, "longitude": -87.716000, "time": 2, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.715991735458374, 41.975683690936741 ] } },
+{ "type": "Feature", "properties": { "FID": 2.000000, "latitude": 41.975700, "longitude": -87.713600, "time": 3, "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.713577747344971, 41.975715595428909 ] } },
+{ "type": "Feature", "properties": { "FID": 3.000000, "latitude": 41.967900, "longitude": -87.713400, "time": 4, "id": "route1", "name": "Nighthawk" }, "geometry": { "type": "Point", "coordinates": [ -87.713416814804077, 41.967946379708614 ] } }
+]
+}
