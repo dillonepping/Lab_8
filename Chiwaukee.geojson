@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FID": 0, "time": "1", "id": "route1", "name": "Harbor" }, "geometry": { "type": "Point", "coordinates": [ -87.810029983520508, 42.586897713410927 ] } },
+{ "type": "Feature", "properties": { "FID": 1, "time": "2", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.814922332763672, 42.585633840527507 ] } },
+{ "type": "Feature", "properties": { "FID": 2, "time": "3", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.815008163452148, 42.581842068133085 ] } },
+{ "type": "Feature", "properties": { "FID": 3, "time": "4", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.815008163452148, 42.580957288058123 ] } },
+{ "type": "Feature", "properties": { "FID": 4, "time": "5", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.826080322265625, 42.580830889879628 ] } },
+{ "type": "Feature", "properties": { "FID": 5, "time": "6", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.825565338134751, 42.572361628215546 ] } },
+{ "type": "Feature", "properties": { "FID": 6, "time": "7", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.821788787841797, 42.558517597663588 ] } },
+{ "type": "Feature", "properties": { "FID": 7, "time": "8", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.818784713745117, 42.535247650761598 ] } },
+{ "type": "Feature", "properties": { "FID": 8, "time": "9", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.817840576171875, 42.521901458886042 ] } },
+{ "type": "Feature", "properties": { "FID": 9, "time": "10", "id": "route1", "name": null }, "geometry": { "type": "Point", "coordinates": [ -87.817239761352539, 42.507540049487417 ] } },
+{ "type": "Feature", "properties": { "FID": 10, "time": "11", "id": "route1", "name": "Chiwaukee" }, "geometry": { "type": "Point", "coordinates": [ -87.810029983520508, 42.507413502579446 ] } }
+]
+}
